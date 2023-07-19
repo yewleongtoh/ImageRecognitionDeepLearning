@@ -13,3 +13,6 @@ The dataset used for training and evaluation consists of 681 images of emergency
 ## Model Architecture
 
 The CNN model architecture employed in this project is designed to capture relevant features for emergency vehicle recognition. It comprises convolutional layers for feature extraction, pooling layers for downsampling, dropout layers for regularization, and fully connected layers for classification. The model has been implemented in PyTorch.
+
+## Sample Result
+![Prediction](https://github.com/yewleongtoh/ImageRecognitionDeepLearning/blob/main/result/result%20snapshot1.png)
